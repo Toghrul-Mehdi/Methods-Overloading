@@ -1,0 +1,28 @@
+C:\Users\Victus\source\repos\Task2\Task2\bin\Debug\net8.0\Task2.exe
+C:\Users\Victus\source\repos\Task2\Task2\bin\Debug\net8.0\Task2.deps.json
+C:\Users\Victus\source\repos\Task2\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+C:\Users\Victus\source\repos\Task2\Task2\bin\Debug\net8.0\Task2.dll
+C:\Users\Victus\source\repos\Task2\Task2\bin\Debug\net8.0\Task2.pdb
+C:\Users\Victus\source\repos\Task2\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus\source\repos\Task2\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+C:\Users\Victus\source\repos\Task2\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+C:\Users\Victus\source\repos\Task2\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Victus\source\repos\Task2\Task2\obj\Debug\net8.0\Task2.dll
+C:\Users\Victus\source\repos\Task2\Task2\obj\Debug\net8.0\refint\Task2.dll
+C:\Users\Victus\source\repos\Task2\Task2\obj\Debug\net8.0\Task2.pdb
+C:\Users\Victus\source\repos\Task2\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+C:\Users\Victus\source\repos\Task2\Task2\obj\Debug\net8.0\ref\Task2.dll
+C:\Users\Victus\OneDrive\İş masası\Methods_Overloading\Task2\Task2\bin\Debug\net8.0\Task2.exe
+C:\Users\Victus\OneDrive\İş masası\Methods_Overloading\Task2\Task2\bin\Debug\net8.0\Task2.deps.json
+C:\Users\Victus\OneDrive\İş masası\Methods_Overloading\Task2\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+C:\Users\Victus\OneDrive\İş masası\Methods_Overloading\Task2\Task2\bin\Debug\net8.0\Task2.dll
+C:\Users\Victus\OneDrive\İş masası\Methods_Overloading\Task2\Task2\bin\Debug\net8.0\Task2.pdb
+C:\Users\Victus\OneDrive\İş masası\Methods_Overloading\Task2\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus\OneDrive\İş masası\Methods_Overloading\Task2\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+C:\Users\Victus\OneDrive\İş masası\Methods_Overloading\Task2\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+C:\Users\Victus\OneDrive\İş masası\Methods_Overloading\Task2\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Victus\OneDrive\İş masası\Methods_Overloading\Task2\Task2\obj\Debug\net8.0\Task2.dll
+C:\Users\Victus\OneDrive\İş masası\Methods_Overloading\Task2\Task2\obj\Debug\net8.0\refint\Task2.dll
+C:\Users\Victus\OneDrive\İş masası\Methods_Overloading\Task2\Task2\obj\Debug\net8.0\Task2.pdb
+C:\Users\Victus\OneDrive\İş masası\Methods_Overloading\Task2\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+C:\Users\Victus\OneDrive\İş masası\Methods_Overloading\Task2\Task2\obj\Debug\net8.0\ref\Task2.dll
