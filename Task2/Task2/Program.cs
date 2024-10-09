@@ -1,24 +1,33 @@
-﻿//2.İstənilən verilən cümlədə sözlərin baş hərflərini ekrana yazdıran method yazın məs .("Hello World --> "H" "W" )
+﻿//2.İstənilən verilən cümlədə sözlərin baş hərflərini
+//ekrana yazdıran method yazın məs .("Hello World --> "H" "W" )
+using System.Reflection;
+
 namespace Task2
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            string metn = "Hello World";
-            Bash_Herf(metn);
+            string metn = "      Hello     sadawd     World";
+            Bash(metn);
         }
-
-        static void Bash_Herf(string metn)
+        static string Bash(string metn)
         {
-            for (int i = 0; i < metn.Length; i++) 
+            string result = "";
+            
+
+            for (int i = 0; i < metn.Length; i++)
             {
-                int ascii_movqe=(int)metn[i];
-                if (ascii_movqe <=90 && ascii_movqe >= 65)
+                if (i == 0 && metn[i + 1] != ' ')
                 {
-                    Console.Write(metn[i] + " ");
+                    Console.Write(metn[i]+" ");
+                }
+                if (i > 0 && metn[i] == ' ' && metn[i + 1] !=' ')
+                {
+                    Console.Write(metn[i+1]+" ");  
                 }
             }
+            return result;
         }
     }
 }
